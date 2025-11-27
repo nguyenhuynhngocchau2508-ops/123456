@@ -33,7 +33,7 @@
   }
 </style>
 <div class="card">
-        <img src="chau.png" class="avatar">
+        <img src="https://github.com/user-attachments/assets/2bd60fb3-90db-4a11-be05-0bf35735dc50" class="avatar">
 <body>
     <div class="background"></div>
     <div class="container">
