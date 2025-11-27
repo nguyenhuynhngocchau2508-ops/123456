@@ -74,7 +74,7 @@
             <img src="đậu.jpg" class="avatar">
         </div>
       <div class="card">
-            <img src="xanh.jpg" class="avatar">
+            <img src="https://github.com/user-attachments/assets/d9a3b275-2478-45cd-a9d2-d03d8349b4cc" class="avatar">
       </div>
    
          </body>
