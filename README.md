@@ -7,7 +7,7 @@
     <title>NGỌC CHÂU</title>
     <style>
       body {
-        background-image: url('https://github.com/user-attachments/assets/3ae6eb5e-a7e1-471a-b6c6-789add46bb67');
+        background-image: url('https://github.com/user-attachments/assets/ee289687-fbd0-471b-8c94-3a561e9c2dd4');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
