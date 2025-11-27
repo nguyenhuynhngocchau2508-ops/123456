@@ -71,7 +71,7 @@
     <div class="background"></div>
     <div class="container">
         <div class="card">
-            <img src="đậu.jpg" class="avatar">
+            <img src="https://github.com/user-attachments/assets/c3b3bd47-bf49-472d-878a-c0001b224f55" class="avatar">
         </div>
       <div class="card">
             <img src="https://github.com/user-attachments/assets/d9a3b275-2478-45cd-a9d2-d03d8349b4cc" class="avatar">
